@@ -2,8 +2,8 @@
 
 ## Requirements
 
-* .NET Framework 2.0 and upper
-* Visual Studio 2010 and upper
+* .NET Framework 2.0 and higher
+* Visual Studio 2010 and higher
 * Your patience :)
 
 ## Screenshots
